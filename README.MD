@@ -4,16 +4,16 @@
 
 Projeto construído do evento Next level Week da Rocketseat.
 
-![preview] {./.github/preview.png}
+![preview](./preview/.github.png)
 
 [Clique aqui para acessar](https://Hialii.github.io/NLW/)
 
-## Tecnologias
+##  🖥 Tecnologias
 
 - HTML
 - CSS
 - GIT E GITHUB
 
-## Contato 
+##  💜 Contato 
 
 hialidias@gmail.com
