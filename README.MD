@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next level Week da Rocketseat.
 
-![preview] {./.github-nlw.png/preview.png}
+![preview] {./.github/preview.png}
 
 [Clique aqui para acessar](https://Hialii.github.io/NLW/)
 
