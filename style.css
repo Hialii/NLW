@@ -125,7 +125,7 @@ main section{
 }
 
 main section:nth-child(1){
-    animation-delay: 0s;
+    animation-delay: 0;
 
 }
 main section:nth-child(2){
@@ -134,7 +134,7 @@ main section:nth-child(2){
 }
 
 main section:nth-child(3){
-    animation-delay: .0s;
+    animation-delay: .8s;
 
 }
 
